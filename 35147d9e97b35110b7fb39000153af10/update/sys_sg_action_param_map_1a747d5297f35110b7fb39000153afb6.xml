@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Incident)">12747d5297f35110b7fb39000153afb1</button>
+        <item_parameter display_value="Incident location">9a747d5297f35110b7fb39000153afaf</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 10:04:53</sys_created_on>
+        <sys_id>1a747d5297f35110b7fb39000153afb6</sys_id>
+        <sys_name>9a747d5297f35110b7fb39000153afaf</sys_name>
+        <sys_package display_value="GitHub Integration" source="x_60088_github_int">35147d9e97b35110b7fb39000153af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration">35147d9e97b35110b7fb39000153af10</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_1a747d5297f35110b7fb39000153afb6</sys_update_name>
+        <ui_parameter display_value="Location">d2747d5297f35110b7fb39000153afb4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

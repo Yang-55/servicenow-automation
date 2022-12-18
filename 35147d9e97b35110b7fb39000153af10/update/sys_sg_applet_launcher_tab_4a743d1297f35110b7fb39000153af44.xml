@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="GitHub Integration">42743d1297f35110b7fb39000153af43</applet_launcher>
+        <icon display_value="Home GitHub Integration">8a743d1297f35110b7fb39000153af44</icon>
+        <label>GitHub Integration</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 10:04:52</sys_created_on>
+        <sys_id>4a743d1297f35110b7fb39000153af44</sys_id>
+        <sys_name>GitHub Integration</sys_name>
+        <sys_package display_value="GitHub Integration" source="x_60088_github_int">35147d9e97b35110b7fb39000153af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration">35147d9e97b35110b7fb39000153af10</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_4a743d1297f35110b7fb39000153af44</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>

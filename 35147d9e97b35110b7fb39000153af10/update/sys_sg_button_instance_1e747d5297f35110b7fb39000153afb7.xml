@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Incident)">12747d5297f35110b7fb39000153afb1</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Incident)</name>
+        <order/>
+        <parent>52747d5297f35110b7fb39000153afa3</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 10:04:53</sys_created_on>
+        <sys_id>1e747d5297f35110b7fb39000153afb7</sys_id>
+        <sys_name>New (Incident)</sys_name>
+        <sys_package display_value="GitHub Integration" source="x_60088_github_int">35147d9e97b35110b7fb39000153af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration">35147d9e97b35110b7fb39000153af10</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1e747d5297f35110b7fb39000153afb7</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1e747d5297f35110b7fb39000153afb7"/>
+</record_update>
