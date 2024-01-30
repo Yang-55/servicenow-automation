@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T23:30:10.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uuJzi88MM3NbIn-4hCq-" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T00:06:15.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tJUko8shHgbZMQvK9gd7" version="23.0.2" type="github">
   <diagram name="Page-1" id="q2veAIWpKf4KaK1LScA3">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,13 +23,17 @@
           <mxGeometry x="290" y="520" width="288" height="96.27" as="geometry" />
         </mxCell>
         <mxCell id="HNUwrCb7PHaw3aPnTFvW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HNUwrCb7PHaw3aPnTFvW-9" target="HNUwrCb7PHaw3aPnTFvW-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="814" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HNUwrCb7PHaw3aPnTFvW-13" value="Business Service" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="930" width="1640" height="236" as="geometry" />
         </mxCell>
         <mxCell id="HNUwrCb7PHaw3aPnTFvW-12" value="HR Service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-shop-7/128/team-people-group-128.png" vertex="1" parent="HNUwrCb7PHaw3aPnTFvW-13">
-          <mxGeometry x="103" y="54" width="128" height="128" as="geometry" />
+          <mxGeometry x="90" y="54" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="HNUwrCb7PHaw3aPnTFvW-17" value="Business Process" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="730" width="1640" height="200" as="geometry" />
